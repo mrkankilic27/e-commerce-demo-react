@@ -41,17 +41,6 @@ Although the app does not persist data to a backend or database, it provides a s
 
 ---
 
-## Demo Screenshots
-
-> You can add screenshots here using the following Markdown format:
-
-```markdown
-![Home Page](screenshots/home.png)
-![Cart Page](screenshots/cart.png)
-```
-
----
-
 ## Tech Stack
 
 - **React** – UI library for building reusable components
